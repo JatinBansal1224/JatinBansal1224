@@ -109,7 +109,7 @@ A frontend recreation of a website layout for practice.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JatinBansal1224&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=JatinBansal1224&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph"/> -->
 
 </div>
 
@@ -140,6 +140,10 @@ A frontend recreation of a website layout for practice.
 
 <a href="https://github.com/JatinBansal1224">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/JatinBansal1224/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
